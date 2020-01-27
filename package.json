@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "nodemon": "nodemon server.js"
-    //para ejecutar el star rn consola solo: npm start, pero para ejecutar el nodemon: npm run nodemon
+  
   },
   "author": "",
   "license": "ISC",
